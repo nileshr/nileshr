@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineering Team Lead based in Chennai 🌊 with around 6 years of experience in the software industry. My focus area has mostly been front-end development with React, but I've also worked in Angular, vanilla JS and back-end development with NodeJS and Golang.
+
 <!--
 **nileshr/nileshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
