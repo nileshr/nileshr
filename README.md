@@ -2,8 +2,6 @@
 
 I'm a Software Engineering Team Lead based in Chennai 🌊 with more than 6 years of experience in the software industry. My focus area has mostly been front-end development with React, but I've also worked in Ember.js, Angular.js, Vanilla JavaScript and back-end development with Node.js and Go.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Lead Developer at [Freshworks](https://www.freshworks.com/)
 - 🌱 I’m currently learning Ember.js
 - 👯 I’m looking to collaborate on any cool new side project.
